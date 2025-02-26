@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+form {
+    background-color: azure;
+    height: 300px;
+    width: 300px;
+}
+
+input {
+    width: 75%;
+    height: 6rem;
+
+}
+
+button {
+    width: 25%;
+    height: 6rem;
+}
