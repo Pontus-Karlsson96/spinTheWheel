@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-form {
-    background-color: azure;
-    height: 300px;
-    width: 300px;
-}
-
 input {
     width: 75%;
     height: 6rem;
